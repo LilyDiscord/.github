@@ -4,4 +4,7 @@ There's PVP, Special Abilities and much more!
 
 There is no Release Date yet, but I'm being actively worked at.
 
+## Support is greatly appreciated! ❤️
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N5DYO5G)
+
 ![Mai](https://user-images.githubusercontent.com/47929140/177052554-02bdabe6-2105-4159-9cc5-720285cd385c.gif)
